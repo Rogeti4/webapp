@@ -10,7 +10,7 @@ body{
     min-height: -webkit-fill-available;
     margin: 0px;
     font-family: sans-serif;
-    background-color: #ddfede;
+    background-color: #e2b9d7;
 }
 #superior {
     display: flex;
@@ -18,8 +18,8 @@ body{
     justify-content: center;
     align-items: center;
     font-size: 4vmax;
-    color: rgb(0, 0, 0);
-    background-color: #3d9e0d;
+    color: rgb(234, 234, 43);
+    background-color: #41e3c8;
 }
 .seccio {
     flex: 1;
@@ -43,8 +43,8 @@ body{
     display: flex;    /* contenidor flex on centrar-hi la icona */
     justify-content: center;
     align-items: center;
-    color: rgb(255, 255, 255);
-    background-color: #3d9e0d;
+    color: white;
+    background-color: #0e8595;
     font-size: 5vmax;
     cursor: pointer;    /* en ordinadors, indica que s'hi pot fer clic */
 }
