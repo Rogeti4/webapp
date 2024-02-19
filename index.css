@@ -23,7 +23,7 @@ body{
 }
 .seccio {
     flex: 1;
-    display: none;
+    display: flex;
 }
 #menu{
     height: 8vmax
