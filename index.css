@@ -55,7 +55,7 @@ body{
         width: 8vmax;
         height: auto;    /* sobreescriu la declaració height: 8vmax; */
     }
-}#seccio_2 {
+}#seccio_3 {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -135,7 +135,7 @@ body{
     cursor: pointer;
 }
 @media (orientation: landscape) {
-    #seccio_2 {
+    #seccio_0 {
         flex-direction: row;
     }
     #div_foto {
