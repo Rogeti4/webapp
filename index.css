@@ -10,7 +10,7 @@ body{
     min-height: -webkit-fill-available;
     margin: 0px;
     font-family: sans-serif;
-    background-color: #ddfede;
+    background-image: url("img/boix.png");
 }
 #superior {
     display: flex;
@@ -21,7 +21,7 @@ body{
     color: rgb(0, 0, 0);
     background-color: #3d9e0d;
 }
-.seccio {
+.seccio_0 {
     flex: 1;
     display: none;
 }
